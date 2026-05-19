@@ -22,7 +22,7 @@
 
 - [Android Open Source Project](https://android.googlesource.com/)
 - [LineageOS](https://github.com/LineageOS)
-- [LineageOS Banner](https://t.me/Ren_Artworks)
+- [AviumUI](https://github.com/AviumUI)
 
 ### Last
 > Good luck :3
